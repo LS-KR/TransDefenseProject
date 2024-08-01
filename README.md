@@ -1,12 +1,3 @@
-<!--
- * @Author: FunctionSir
- * @License: AGPLv3
- * @Date: 2024-07-30 22:04:54
- * @LastEditTime: 2024-07-30 22:42:47
- * @LastEditors: FunctionSir
- * @Description: README.md
- * @FilePath: /TransDefenseProject/README.md
--->
 # TransDefenseProject
 
 Save trans people! 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️  
@@ -20,7 +11,7 @@ Save trans people! 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 当然, 亦有其他朋友精心制作的查询页面可用.  
 下面都是链接, 点击即可进入.  
 [xioi提供的查询页面(通过本项目的GitHub Pages上线)](https://functionsir.github.io/TransDefenseProject/search.html)  
-[LS-KR提供的页面](https://ls-kr.github.io/u-frontend/)  
+[LS-KR提供的页面](https://ovoneko.github.io/TDP-FT/)  
 [X(原推特)@YukariEwe提供的页面](https://unknown-list.0x7f.cc/)  
 [xioi提供的查询页面(通过xioi自己的GitHub Pages上线)](https://xioi.github.io/save_trans/search.html)  
 在这里非常感谢各位的支持.  
